@@ -1,1 +1,1 @@
-# fastjoins
+# 🚀 FastJoins
